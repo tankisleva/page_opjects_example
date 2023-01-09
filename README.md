@@ -1,2 +1,2 @@
 # page_opjects_example
-example page object pattern for python
+page object module-based
